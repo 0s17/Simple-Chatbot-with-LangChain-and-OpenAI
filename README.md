@@ -34,7 +34,7 @@ cd your-repo-name
 ```
 2. Run the chatbot script:
 ```bash
-python chatbot.py
+lang chain.py
 ```
 3. Start chatting with the bot!
 - Type your questions.
